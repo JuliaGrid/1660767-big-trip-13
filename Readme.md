@@ -1,7 +1,7 @@
 # Проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
-* Студент: [Мария Нилова](https://up.htmlacademy.ru/ecmascript/13/user/1660767).
-* Наставник: `Неизвестно`.
+* Студент: [Юлия Герасименко](https://htmlacademy.ru/profile/id868793).
+* Наставник: `Без наставника`.
 
 ---
 
